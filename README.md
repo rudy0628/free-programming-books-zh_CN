@@ -280,7 +280,7 @@
 * [前端代码规范 及 最佳实践](http://coderlmn.github.io/code-standards/)
 * [前端开发者手册](https://www.gitbook.com/book/dwqs/frontenddevhandbook/details)
 * [前端工程师手册](https://www.gitbook.com/book/leohxj/front-end-database/details)
-* [w3school教程整理](https://github.com/wizardforcel/w3school)
+* [w3school教程整理](https://github.com/wizardforcel/w3school:worried:)
 * [Wireshark用户手册](http://man.lupaworld.com/content/network/wireshark/index.html)
 * [一站式学习Wireshark](https://community.emc.com/thread/194901)
 * [HTTP 下午茶](https://ccbikai.gitbooks.io/http-book/content/)
